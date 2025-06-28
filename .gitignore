@@ -1,0 +1,7 @@
+*.class
+*.log
+*.iml
+/target/
+/.idea/
+/out/
+.DS_Store
